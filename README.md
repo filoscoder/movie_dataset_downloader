@@ -1,7 +1,7 @@
 # Movie Dataset Downloader
 <h6>Personal project written on VS Code and run on linux (CentOS7)</h6>
 
-<h2><dataset-downloader></h2>
+<h2>| dataset-downloader |</h2>
   <p><b>dataset-downloader</b> as his name, it is a simple dataset downloader based on unix eviroment
   It automates the downloads of movies related data from the <i>Korean Film Counsil</i> (kobis.or.kr)
   This program downloads 2 type of dataset:
@@ -9,12 +9,12 @@
     <li> Detailed movie info dataset (Movies those are included at the daily box office dataset) </li>
   </ol></p>
  <br/>
- <h3><Dev enviroment></h3>
+ <h3>| Dev enviroment |</h3>
   Bash file written on <b>VS Code</b>(Windows)
   <b>Linux</b> terminal(CentOS7)
   <b>.JQ</b> line editor for Json files
 <br/>
-<h4>Instruccions</h4>
+<h3>| Instruccions |</h3>
 <ul>
   *REQUISITE: <b>MUST</b> have all permission granted to <i>read/write/run</i> (rwx)
   <li> Open your terminal on Linux </li>
@@ -34,7 +34,7 @@
   <br/><li><em>If you keep have troubles running the downloader, please send me an email (sondaniel.88@gmail.com) </em></li>
 
   <br/>
-  <h4>Change Log</h4>
+  <h3>| Change Log |</h4>
 <ul>
   <strong><b># v1.3 <b/></strong>
   <li> Download path setted on the current working directory </li>
