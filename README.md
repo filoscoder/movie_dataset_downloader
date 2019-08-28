@@ -8,7 +8,7 @@
   <ol><li> Daily box office dataset </li>
     <li> Detailed movie info dataset (Movies those are included at the daily box office dataset) </li>
   </ol></p>
- <br/>
+  
  <h3>| Dev enviroment |</h3>
   Bash file written on <b>VS Code</b>(Windows)
   <b>Linux</b> terminal(CentOS7)
@@ -34,22 +34,22 @@
   <br/><li><em>If you keep have troubles running the downloader, please send me an email (sondaniel.88@gmail.com) </em></li>
 
   <br/>
-  <h3>| Change Log |</h4>
+  <h3>| Change Log |</h3>
 <ul>
-  <strong><b># v1.3 <b/></strong>
+  <h5><strong># v1.3 </strong></h5>
   <li> Download path setted on the current working directory </li>
   <li> Fixed some minor issues </li>
     
-  <strong><b># v1.2 <b/></strong>
+  <h5><strong># v1.2 </strong></h5>
   <li> Added .jq editor installer (if not yet installed) </li>
   <li> Fixed minor issues </li>
   
-  <strong><b># v1.1 <b/></strong>
+  <h5><strong># v1.1 </strong></h5>
     <li> Changed the download path and the downloaded filenames to 'YYYYMMDD' </li>
     <li> Handled wrong user input format </li>
     <li> Fixed unnecessary downloads about existing files </li>
   
-  <strong># v1.0 <b/></strong>
+  <h5><strong># v1.0 </strong><h5>
     <li> Initial release </li>
 </ul>
 <br/><br/><br/>
