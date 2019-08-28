@@ -14,7 +14,7 @@
   <b>Linux</b> terminal(CentOS7)
   <b>.JQ</b> line editor for Json files
 <br/>
-<h3>| Instruccions |</h3>
+<h3>| Instructions |</h3>
 <ul>
   *REQUISITE: <b>MUST</b> have all permission granted to <i>read/write/run</i> (rwx)
   <li> Open your terminal on Linux </li>
