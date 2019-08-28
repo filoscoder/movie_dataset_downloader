@@ -16,13 +16,13 @@
   
   <h4>Change Log</h4>
 <ul>
-  <p><b># v1.2 <b/></p>
+  <strong><b># v1.2 <b/></strong>
   <li> Added .jq editor installer (if not yet installed) </li>
   <li> Fixed minor issues </li>
-  <p><b># v1.1 <b/></p>
+  <strong><b># v1.1 <b/></strong>
     <li> Changed the download path and the downloaded filenames to 'YYYYMMDD' </li>
     <li> Handled wrong user input format </li>
     <li> Fixed unnecessary downloads about existing files </li>
-  <p><b># v1.0 <b/></p>
+  <strong># v1.0 <b/></strong>
     <li> Initial release </li>
 </ul>
