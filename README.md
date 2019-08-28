@@ -8,12 +8,12 @@
   <ol><li> Daily box office dataset </li>
     <li> Detailed movie info dataset (Movies those are included at the daily box office dataset) </li>
   </ol></p>
- 
+ <br/>
  <h3><Dev enviroment></h3>
   Bash file written on <b>VS Code</b>(Windows)
   <b>Linux</b> terminal(CentOS7)
   <b>.JQ</b> line editor for Json files
-
+<br/>
 <h4>Instruccions</h4>
 <ul>
   *REQUISITE: <b>MUST</b> have all permission granted to <i>read/write/run</i> (rwx)
@@ -33,7 +33,7 @@
   <br/><i>this issue is well known for bash files written on windows. Linux understand the windows 'Enter' key like '\r' (carriage return) so the code above use the stream line editor to remove every '\r' on the file.</i>
   <br/><li><em>If you keep have troubles running the downloader, please send me an email (sondaniel.88@gmail.com) </em></li>
 
-  
+  <br/>
   <h4>Change Log</h4>
 <ul>
   <strong><b># v1.3 <b/></strong>
@@ -52,7 +52,7 @@
   <strong># v1.0 <b/></strong>
     <li> Initial release </li>
 </ul>
+<br/><br/><br/>
+<div><p>*********Feel free to fork, contribute, make constructive comments *********</p></div>
 
-<div>*********Feel free to fork, contribute, make constructive comments *********</div>
-
-<div>Credits <a href="https://github.com/filoscoder/">Filoscoder&copy;</a></div>
+<div><p>Credits <a href="https://github.com/filoscoder/">Filoscoder&copy;</a></p></div>
