@@ -10,7 +10,7 @@
   </ol></p>
  
  <h3><Dev enviroment></h3>
-  Bash file written on <b>VS Code</b>
+  Bash file written on <b>VS Code</b>(Windows)
   <b>Linux</b> terminal(CentOS7)
   <b>.JQ</b> line editor for Json files
 
@@ -20,17 +20,18 @@
   <li> Open your terminal on Linux </li>
   <li> Go to your preferred workspace and create a new directory called '<b>movies_data</b>'</li>
   <code>MKDIR -pv /{$WORKSPACE PATH}/movies_data</code>
-  <li> Web download ('wget' command) the current latest version: <a href='https://raw.githubusercontent.com/filoscoder/movie_data_analisys/master/dataset-downloader-1.2.sh'>dataset-downloader-1.2.sh</a></li>
+  <li> Web download ('wget' command) the current latest version inside '<b>movies_data</b>': <a href='https://raw.githubusercontent.com/filoscoder/movie_data_analisys/master/dataset-downloader-1.2.sh'>dataset-downloader-1.2.sh</a></li>
   <code>wget -p /{$WORKSPACE PATH}/ https://raw.githubusercontent.com/filoscoder/movie_data_analisys/master/dataset-downloader-1.2.sh </code>
   <li>Grant full access to the downloader file</li>
   <code>chmod 777 dataset-downloader-1.2.sh </code>
   <li>Run the file and Enjoy!</li>
   <code> ./dataset-downloader-1.2.sh </code>
+  <br/>
+  <li><em>Please don't rename the folders that contains the datasets (otherwise it will be created again)
   <li><em>If you experience some syntax issues try again after this</em></li>
   <code> sed -i 's/\r$//g' /home/hadoop/movies_data/dataset-downloader-1.2.sh</code>
-  <i>this issue happend because the bash file was written on windows and linux interprete the 'Enter' key like '\r' (carriage return)
-    so the code above use the stream line editor to remove every '\r' on the file.</i>
-  <em>If you keep have troubles running the downloader, please send me an email (sondaniel.88@gmail.com) </em>
+  <br/><i>this issue is well known for bash files written on windows. Linux understand the windows 'Enter' key like '\r' (carriage return) so the code above use the stream line editor to remove every '\r' on the file.</i>
+  <br/><li><em>If you keep have troubles running the downloader, please send me an email (sondaniel.88@gmail.com) </em></li>
 
   
   <h4>Change Log</h4>
