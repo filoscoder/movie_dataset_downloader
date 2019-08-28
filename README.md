@@ -20,8 +20,8 @@
   <li> Open your terminal on Linux </li>
   <li> Go to your preferred workspace and create a new directory called '<b>movies_data</b>'</li>
   <code>MKDIR -pv /{$WORKSPACE PATH}/movies_data</code>
-  <li> Web download ('wget' command) the current latest version inside '<b>movies_data</b>': <a href='https://raw.githubusercontent.com/filoscoder/movie_data_analisys/master/dataset-downloader-1.3.sh'>dataset-downloader-1.3.sh</a></li>
-  <code>wget -p /{$WORKSPACE PATH}/ https://raw.githubusercontent.com/filoscoder/movie_data_analisys/master/dataset-downloader-1.3.sh </code>
+  <li> Web download ('wget' command) the current latest version inside '<b>movies_data</b>': <a href='https://github.com/filoscoder/movie_dataset_downloader/releases/download/v1.3/dataset-downloader-1.3.sh'>dataset-downloader-1.3.sh</a></li>
+  <code>wget -p /{$WORKSPACE PATH}/ https://github.com/filoscoder/movie_dataset_downloader/releases/download/v1.3/dataset-downloader-1.3.sh </code>
   <li>Grant full access to the downloader file</li>
   <code>chmod 777 dataset-downloader-1.3.sh </code>
   <li>Run the file and Enjoy!</li>
