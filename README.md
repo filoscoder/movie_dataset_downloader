@@ -1,5 +1,5 @@
-# movie_data_analisys
-<h6>Project made during Playdata bootcamp</h6>
+# Movie Dataset Downloader
+<h6>Personal project written on VS Code and run on linux (CentOS7)</h6>
 
 <h2><dataset-downloader></h2>
   <p><b>dataset-downloader</b> as his name, it is a simple dataset downloader based on unix eviroment
@@ -8,10 +8,19 @@
   <ol><li> Daily box office dataset </li>
     <li> Detailed movie info dataset (Movies those are included at the daily box office dataset) </li>
   </ol></p>
+ 
+ <h3><Dev enviroment></h3>
+  Bash file written on <b>VS Code</b>
+  <b>Linux</b> terminal(CentOS7)
+  <b>.JQ</b> line editor for Json files
 
 <h4>Instruccions</h4>
-<ul>  
-  <li> download the current latest version of 
+<ul>
+  *REQUISITE: <b>MUST</b> have all permission granted to <i>read/write/run</i> (rwx)
+  <li> Open your terminal on Linux </li>
+  <li> Go to your preferred workspace and create a new directory called '<b>movies_data</b>'</li>
+  <code>MKDIR -pv /{$WORKSPACE PATH}/movies_data</code>
+  <li> download the current latest version: <a href='https://raw.githubusercontent.com/filoscoder/movie_data_analisys/master/dataset-downloader-1.2.sh'>dataset-downloader-1.2.sh</a></li>
 
   
   <h4>Change Log</h4>
