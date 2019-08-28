@@ -53,6 +53,6 @@
     <li> Initial release </li>
 </ul>
 <br/><br/><br/>
-<div><p>*********Feel free to fork, contribute, make constructive comments *********</p></div>
+<div align='center'><p>*********Feel free to fork, contribute, make constructive comments *********</p></div>
 
-<div><p>Credits <a href="https://github.com/filoscoder/">Filoscoder&copy;</a></p></div>
+<div align='right'><p>Credits <a href="https://github.com/filoscoder/">Filoscoder&copy;</a></p></div>
