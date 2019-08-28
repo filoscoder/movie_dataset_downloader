@@ -52,3 +52,7 @@
   <strong># v1.0 <b/></strong>
     <li> Initial release </li>
 </ul>
+
+<div>*********Feel free to fork, contribute, make constructive comments *********</div>
+
+<div>Credits <a href="https://github.com/filoscoder/">Filoscoder&copy;</a></div>
